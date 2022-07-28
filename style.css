@@ -14,14 +14,19 @@ body {
 }
 
 
-/* element.style {
-    height: 100%;
-    padding: 0;
-    position: absolute;
-    top: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    
+
+
+/* ------------------------------
+slider part
+------------------------------- */
+/* .slide-title {
+    font-size: 5vw;
+}
+
+.slider-text {
+    font-size: 2vw;
 } */
+
+.slider-image {
+    filter: brightness(60%);
+}
