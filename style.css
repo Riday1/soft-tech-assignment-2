@@ -19,13 +19,6 @@ body {
 /* ------------------------------
 slider part
 ------------------------------- */
-/* .slide-title {
-    font-size: 5vw;
-}
-
-.slider-text {
-    font-size: 2vw;
-} */
 
 .slider-image {
     filter: brightness(60%);
